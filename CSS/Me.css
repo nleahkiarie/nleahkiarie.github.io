@@ -1,0 +1,12 @@
+body{
+	background-color:maroon;
+	background-image: url(images/seth.jpg);
+}
+.about h1{
+	color: white;
+	border-bottom: 2px solid black;
+	align-content: center;
+}
+.about p{
+	color: white;
+ }
